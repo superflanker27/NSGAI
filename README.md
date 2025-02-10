@@ -31,7 +31,7 @@ You can directly download the compiled version from the releases if you wish.
     
 ## Usage
 
-First, find the gmodlocation.cfg file and edit it, place the actual directory to gmod like this:
+- First, find the gmodlocation.cfg file and edit it, place the actual directory to gmod like this:
 
 ```javascript
 C:\Users\X\Downloads\gmod\GarrysMod
@@ -57,7 +57,7 @@ if you want to delete addon, just go into gmod and find the addons folder, then 
 
 ## Contact
 
-Need help? or want to contact me for any other reasons, my discord is: kroot1
+Need help? or want to contact me for any other reasons, my discord is: **kroot1**
 
 no, im not giving you my telegram XP
 
