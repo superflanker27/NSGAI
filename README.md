@@ -61,3 +61,4 @@ Need help? or want to contact me for any other reasons, my discord is: **kroot1*
 
 no, im not giving you my telegram XP
 
+(this was originally meant to be an exploit PoC for the bug that let you download deleted steam workshop items, but that got patched so made this instead lol..)
